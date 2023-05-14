@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">杨凯淇实验7</string>
+    <string name="btn_text_db_create">创建数据库</string>
+    <string name="btn_text_db_update">升级数据库</string>
+    <string name="btn_text_db_insert">插入数据</string>
+    <string name="btn_text_db_alter">修改数据</string>
+    <string name="btn_text_db_delete">删除数据</string>
+    <string name="btn_text_db_query">查询数据</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ykq-demo-07</string>
+    <string name="btn_text_db_create">create db</string>
+    <string name="btn_text_db_update">update db</string>
+    <string name="btn_text_db_insert">insert data</string>
+    <string name="btn_text_db_alter">alter data</string>
+    <string name="btn_text_db_delete">delete data</string>
+    <string name="btn_text_db_query">query data</string>
+</resources>
