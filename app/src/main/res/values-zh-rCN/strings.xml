@@ -7,4 +7,5 @@
     <string name="btn_text_db_alter">修改数据</string>
     <string name="btn_text_db_delete">删除数据</string>
     <string name="btn_text_db_query">查询数据</string>
+    <string name="toast_db_updated">数据库更新到版本: </string>
 </resources>
