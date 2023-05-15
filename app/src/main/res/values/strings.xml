@@ -6,5 +6,10 @@
     <string name="btn_text_db_alter">alter data</string>
     <string name="btn_text_db_delete">delete data</string>
     <string name="btn_text_db_query">query data</string>
+    <string name="toast_db_created">db created success</string>
     <string name="toast_db_updated">db updated to version: </string>
+    <string name="toast_data_inserted">db data inserted: </string>
+    <string name="toast_data_updated">db data updated: </string>
+    <string name="toast_data_deleted">db data deleted: </string>
+    <string name="toast_data_query">db data get: </string>
 </resources>
